@@ -4,43 +4,30 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+## Who the hell are you!?
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+Dylan Rose! I'm a PhD student in Peter Bex's Translational Vision Laboratory at Northeastern University.
 
-<h2>Skills</h2>
+The picture above is me, edge-filtered, when I had a much edgier haircut long ago. It was a simpler time.
 
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
+## What on Earth could someone with such a dumb haircut possibly spend his days doing!?
 
-<h2>Projects</h2>
+Well, first, it's less dumb and edgy now than it used to be. Second, at the moment, I'm doing research in two main areas:
 
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+1. Developing methods to enhance oculomotor control in/improve information gathering from complex environments for individuals with:
+   * Central visual field loss.
+   * Various "-opsias" (disease states that produce blindness in portions of the visual field).
+2. The use of eye movement data, in conjunction with image processing and machine learning methods, to perform biometric tasks, such as:
+   * Ophthalmological and neuropsychological disease detection.
+   * Behavior/user identification.
+
+You can read more about what I'm doing with this stuff in my CV.
+
+## Why on Earth does this page exist!?
+
+In order to serve as:
+
+ 1. a point of contact for those looking to get in touch with me for various reasons.
+ 2. a place to host copies of my academic work.
+ 3. a place to document various extra-curricular projects that do things with data, or that otherwise make dumb art and services using deep learning.
+ 
