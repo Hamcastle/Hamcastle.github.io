@@ -21,7 +21,7 @@ Well, first, it's less dumb and edgy now than it used to be. Second, at the mome
    * Ophthalmological and neuropsychological disease detection.
    * Behavior/user identification.
 
-You can read more about what I'm doing with this stuff in my CV.
+You can read more about what I'm doing with this stuff in my [resume/CV](https://drive.google.com/open?id=1eTgK-QIWoLFCfI-359k9sIDb5F7HarSJ).
 
 ## Why on Earth does this page exist!?
 
