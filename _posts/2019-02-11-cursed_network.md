@@ -8,8 +8,6 @@ author: dylanrose
 externalLink: false
 ---
 
-# Introduction
-
 One of my favorite internet hobby-horses are _"cursed" images_. These are pictures that a handful of internet communities have suggested are special in that they reliably induce a sense of unease or discomfort in the viewer. **KnowYourMeme** has a nice definition, too:
 
 >They are generally pictures or photographs that are seen as disturbing to the viewer, either due to the poor photo quality or content within the image that is abnormal or illogical. Images of this or similar nature are sometimes seen as the visual equivalent to CreepyPasta. They have inspired several popular social media accounts devoted to posting various cursed images.
@@ -24,13 +22,13 @@ cursed_bread          | cursed_queen
 
 One of the projects I've been working on as part of my dissertation is a method for measuring how _semantically appropriate_ objects are to the kind of environment presented in an image. 
 
-To help unpack this a bit, consider this famous drawing from ![Loftus & Mackworth, (1978)](https://psycnet.apa.org/record/1980-22602-001):
+To help unpack this a bit, consider this famous drawing from [Loftus & Mackworth, (1978)](https://psycnet.apa.org/record/1980-22602-001):
 
-![](/assets/images/cursed_images/cursed_octopus.jpg)
+![](/assets/images/cursed_images/cursed_octopus.png)
 
 Most of us, on seeing this picture, can quickly i.d. that it contains a  strange but evidently very polite new friend. In my immediate scientific neck of the woods, we know him as Senor Pulpo: 
 
-![](/assets/images/cursed_images/senor_puplo.png)
+![](/assets/images/cursed_images/senor_pulpo.png)
 
 Most adults known that octopuses are more likely to be found in aquariums or in the ocean than in farmyards. As a result, were he to formally receive us in either of the first two environments, we'd agree that Senor Pulpo knew himself well and had placed himself in his best social element accordingly. In terms of the relevant research, we'd say that he was "semantically appropriate" to those scene contexts. But if we met him instead in a farmyard like the one in the drawing, we'd probably also agree that having met him there was unlikely, and thus that he was "semantically inappropriate" to that context (not to mention probably in desperate need of emergency veterinary assistance, despite his brave and friendly mien).
 
@@ -41,7 +39,7 @@ So let's imagine we've done an eye tracking experiment to test whether Senor Pul
 Most researchers have responded to this problem in one of two ways:
 
 1. they just ignore it and use highly manipulable line-drawing/cg stimuli despite how unnatural these are.
-2. ![they do the sweaty, difficult, painstaking, time-consuming work of carefully photographing bog-rolls in the dishwasher](https://www.scenegrammarlab.com/research/scegram-database/) ![or watering cans on the roof](http://info.ni.tu-berlin.de/photodb/).
+2. [they do the sweaty, difficult, painstaking, time-consuming work of carefully photographing bog-rolls in the dishwasher](https://www.scenegrammarlab.com/research/scegram-database/) [or watering cans on the roof](http://info.ni.tu-berlin.de/photodb/).
 
 Enter "cursed" images:
 
