@@ -5,7 +5,7 @@ date: 2019-04-22
 projects: true
 category: project
 author: dylanrose
-externalLink: https://github.com/Hamcastle/cursed_network
+externalLink: false
 ---
 
 # Introduction
