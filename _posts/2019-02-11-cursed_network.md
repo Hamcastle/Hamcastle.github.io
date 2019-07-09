@@ -45,12 +45,30 @@ Enter "cursed" images:
 
 ![](/assets/images/cursed_images/cursed_motorcycle.jpg)
 
-Why drag a semantically inappropriate motorcycle into your own bed, getting it all dirty, when someone on the internet has already done the work for you?
+Why drag a semantically inappropriate motorcycle into your own bed when someone on the internet has already done the dirty work for you?
 
 To wit: almost as soon as I saw them, cursed images struck me as a beautiful naturally occuring semantic image anomaly dataset. This project was my first effort to demonstrate that that is in fact the case.
 
+# The Project
 
-# What can we learn from/do with cursed images?
+From the beginning, I've had three goals for my work with cursed images:
 
-As a first cut cursed image dataset, I scraped a few hundred cursed images from the ![Twitter]() account and ![subreddit]() dedicated to them 
+1. to demonstrate that it is possible to reliably discriminate cursed from non-cursed images. Rather than deal with the headaches of getting IRB approval and recruiting subjects to show these to people, I would instead use a simple convolutional neural network.
+2. if cursed images are in fact discriminable in this way, to characterize the differences between them and non-cursed images in terms of several slightly more readily interpretable feature-spaces. Specifically, these are:
+    1. object-contextual semantic relationships.
+    2. valence & arousal.
+    3. color and spatial frequency information.
+3. to test whether the features learned for discriminating between cursed and non-cursed images could facilitate transfer learning to a similar problem on an interesting related dataset.
+
+## 0. The Data
+
+### Cursed & Non-Cursed Images
+
+To create a cursed image dataset, I just used the excellent [RipMe.jar](https://github.com/RipMeApp/ripme) to scrape from the [cursed images Twitter account](https://twitter.com/cursedimages?lang=en) and [subreddits](https://www.reddit.com/r/cursedimages/). Big 'ole NSFW warning on both links, btw -- consider yourself warned.
+
+The Twitter is old and I think now mostly inactive, but the subreddit is going strong and has even recently had a bit of a bit of a public-facing renaissance/admin putsch over standards around things like content containing gore, etc. See e.g.: 
+
+[![hwang](https://i.ytimg.com/vi/qZfA6Fb7JNk/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA5KuN-s5yadq6jLDX3XD5A1MBztg)](https://www.youtube.com/watch?v=qZfA6Fb7JNk&t=98s) 
+
+So anyway there's a large archive of these things out there, and at least in some places people are continuing to add to the available pool. The only downside to using RipMe for scraping over this set is that the number of images scraped seems to be influenced by a lot of parameters I didn't have time to really play with, so the set it generated was small: just 448 pictures.
 
